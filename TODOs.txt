@@ -1,0 +1,22 @@
+Category: ObjectAnimation
+TODO: Check Transition for overlap
+TODO: Missing attribute catch for objects
+
+Category: Bar
+FIXME: set_value bottom line issues
+FIXME: Small bar rect disturbance when not 0%, 50% or 100% filled in bottom-mode
+FIXME: Won't reverse bar colored section when reversing line order
+FIXME: Rounded corners
+
+Category: Unverified features
+Test: Full ObjectAnimation class
+Test: Full Inputfield class
+Test: Full Image class
+Test: Full Transition class
+Test: Full Button class
+Test: Full Scene class
+Test: Text object operations within Button objects
+Test: Image object operations within Button objects
+Test: Image object operations within Transition objects
+Test: Image height and width attribute changes
+Test: Alpha colors used for diplayobjects
